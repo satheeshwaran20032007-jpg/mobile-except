@@ -1,4 +1,4 @@
 Flask
-gunicorn=26.2.0
+gunicorn=26.2.0:
 python-dotenv
 google-genai
